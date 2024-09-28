@@ -100,3 +100,5 @@
 <hr>
 <h3 align="left">History:</h3>
 <img src="https://raw.githubusercontent.com/cesarhfborges/cesarhfborges/master/activity.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/cesarhfborges/cesarhfborges/output/snake.svg" alt="Snake animation" />
