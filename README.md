@@ -82,12 +82,14 @@
 </p>
 
 <hr>
+<h3 align="left">Trophies:</h3>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=cesarhfborges&theme=nord&title=-PullRequest,-Reviews" alt="cesarhfborges" />
     </a>
 </p>
 <hr>
+<h3 align="left">Analytics:</h3>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cesarhfborges&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cesarhfborges&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cesarhfborges&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -96,5 +98,5 @@
 | :-: | :-: |
 
 <hr>
-
+<h3 align="left">History:</h3>
 <img src="https://raw.githubusercontent.com/cesarhfborges/cesarhfborges/master/activity.svg" alt="Snake animation" />
