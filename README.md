@@ -1,4 +1,4 @@
-## Hi 👋, i'm César Henrique 
+## Hi 👋, i'm César Borges 
 
 ![](https://komarev.com/ghpvc/?username=cesarhfborges&style=for-the-badge) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/cesarhfborges)](https://www.linkedin.com/in/cesar-henrique-ferreira-borges/)
