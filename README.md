@@ -99,13 +99,6 @@
 
 <hr>
 <h3 align="left">History:</h3>
-<img src="https://raw.githubusercontent.com/cesarhfborges/cesarhfborges/master/activity.svg" alt="Snake animation" />
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cesarhfborges/cesarhfborges/refs/heads/output/github-contribution-grid-snake-dark.svg" />
